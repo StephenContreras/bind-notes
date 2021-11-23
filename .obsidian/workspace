@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "172cf89132049d3d",
+        "id": "d0dfa694503803a7",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Leo Crestsunder\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -82,6 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "172cf89132049d3d",
-  "lastOpenFiles": []
+  "active": "d0dfa694503803a7",
+  "lastOpenFiles": [
+    "Characters/NPCs/Families/Eren Crestsunder.md",
+    "Characters/NPCs/Families/Cynder N'Rello.md",
+    "Characters/NPCs/Families/Cyster N'Rello.md",
+    "Characters/NPCs/Families/Eurydice Crestsunder.md",
+    "Characters/NPCs/Families/Cas Crestsunder.md",
+    "Characters/NPCs/Families/Cyssor N'Rello.md",
+    "Characters/PCs/Cydne N'Rello.md",
+    "Characters/PCs/Ziggy FlintFinder.md",
+    "Characters/PCs/Aristaeus.md",
+    "Characters/PCs/Leo Crestsunder.md"
+  ]
 }

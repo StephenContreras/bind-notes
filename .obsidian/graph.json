@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "path:Characters",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Characters/PCs",
+      "color": {
+        "a": 1,
+        "rgb": 9859327
+      }
+    },
+    {
+      "query": "path:Characters/NPCs/Families",
+      "color": {
+        "a": 1,
+        "rgb": 14701209
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00304487179487,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.496260683760684,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 106,
+  "scale": 1.6048697909004979,
+  "close": false
+}
