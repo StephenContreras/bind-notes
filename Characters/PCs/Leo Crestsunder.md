@@ -1,3 +1,6 @@
+---
+aliases: Leo
+---
 [Character sheet](https://www.dndbeyond.com/profile/si0pa0/characters/54105450)
 Half-Elf - Ranger
 Player: Paula
@@ -53,3 +56,5 @@ Age: 17
 - very sweet, especially to animals and children
 - a little reckless and stubborn - gets it from both of his parents
 - takes good notes in his journal
+
+#chrestsunder

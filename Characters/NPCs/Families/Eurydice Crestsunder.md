@@ -36,3 +36,5 @@ Age: 36 at time of death
 - hair trigger temper. feisty
 - often cursed around the kids
 - very gentle and loving mother though
+
+#chrestsunder

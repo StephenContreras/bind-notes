@@ -1,3 +1,6 @@
+---
+aliases: Ziggy
+---
 [Character sheet](https://www.dndbeyond.com/profile/Mr_Dubs/characters/54154817)
 Player: Nathan
 Rock Gnome - Artificer

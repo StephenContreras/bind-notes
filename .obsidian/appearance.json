@@ -1,4 +1,6 @@
 {
-  "baseFontSize": 16,
-  "translucency": false
+  "baseFontSize": 13,
+  "translucency": false,
+  "cssTheme": "Base2Tone",
+  "theme": "obsidian"
 }

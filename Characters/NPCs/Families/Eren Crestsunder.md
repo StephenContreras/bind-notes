@@ -1,3 +1,6 @@
+---
+aliases: Eren
+---
 Human - Fighter
 
 STR | DEX | CON | INT | WIS | CHA
@@ -63,3 +66,5 @@ Age: Late 40s
 - a good dad. not perfect, but anyone would want him to be their dad
 - vicious fighter when pissed off
 	- don't fuck with his family
+
+#chrestsunder

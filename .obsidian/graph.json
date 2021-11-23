@@ -57,23 +57,23 @@
       }
     },
     {
-      "query": "path:Characters/NPCs/Pets",
+      "query": "path:Characters/NPCs/Animals",
       "color": {
         "a": 1,
         "rgb": 15988534
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.01469669117647,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.08720588235294,
   "lineSizeMultiplier": 3.79661764705882,
   "collapse-forces": false,
-  "centerStrength": 0.389922752808989,
+  "centerStrength": 0.468883547008547,
   "repelStrength": 11.3518258426966,
-  "linkStrength": 0.907391151685393,
-  "linkDistance": 257,
-  "scale": 0.7920407494526439,
+  "linkStrength": 0.463141025641026,
+  "linkDistance": 142,
+  "scale": 0.7761451769739359,
   "close": true
 }
