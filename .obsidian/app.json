@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "useMarkdownLinks": false
 }

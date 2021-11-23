@@ -13,6 +13,7 @@ Relation | Name
 ------------ | ------------
 Nephew | [[Cydne N'Rello]]
 Niece | [[Cyster N'Rello]]
+SIster | [[Cyssor N'Rello]]
 
 ###### Pets
 
@@ -22,3 +23,5 @@ Niece | [[Cyster N'Rello]]
 
 #### Background
 <Description>
+	
+#nrello 

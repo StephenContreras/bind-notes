@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3848cb940a35725a",
+        "id": "4f248c1e80ae3a76",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Leo Crestsunder\"",
+                "query": "alias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3848cb940a35725a",
+  "active": "4f248c1e80ae3a76",
   "lastOpenFiles": [
-    "Characters/NPCs/Animals/Water Toby.md",
-    "Characters/NPCs/Animals/Seto.md",
-    "Characters/PCs/Leo Crestsunder.md",
-    "Characters/NPCs/Families/Marcia Crestsunder.md",
-    "Characters/NPCs/Families/Finn Crestsunder.md",
-    "Characters/NPCs/Families/Fae Crestsunder.md",
-    "Characters/NPCs/Families/Eurydice Crestsunder.md",
-    "Characters/NPCs/Families/Eren Crestsunder.md",
+    "Locations/Cities/Wheetfield.md",
+    "Characters/NPCs/Enemies/Cult of Aristaeus.md",
+    "Characters/NPCs/Unaffiliated/Maredeth Aldred.md",
+    "Cultists.md",
+    "Characters/PCs/Cydne N'Rello.md",
     "Characters/PCs/Aristaeus.md",
-    "Characters/PCs/Ziggy FlintFinder.md"
+    "Characters/NPCs/Families/Caryn N'Rello.md",
+    "Characters/NPCs/Families/Cyster N'Rello.md",
+    "Characters/NPCs/Families/Cyssor N'Rello.md",
+    "Characters/NPCs/Families/Cynder N'Rello.md"
   ]
 }

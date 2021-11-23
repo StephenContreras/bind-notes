@@ -22,5 +22,5 @@ Relation | Name
 Farmer in [[Grasspass]]
 
 #### Notes
-The gang saved 1/4 of her farm from the [[Cultists]]
+The gang saved 1/4 of her farm from the [[Cult of Aristaeus|Cultists]]
 Her far is a winery that grows two varieties of grape 
