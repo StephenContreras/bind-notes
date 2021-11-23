@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Characters",
+  "search": "path:(-templates)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -20,6 +20,48 @@
         "a": 1,
         "rgb": 14701209
       }
+    },
+    {
+      "query": "path:Locations/Cities",
+      "color": {
+        "a": 1,
+        "rgb": 8170523
+      }
+    },
+    {
+      "query": "path:Locations/Regions",
+      "color": {
+        "a": 1,
+        "rgb": 16183095
+      }
+    },
+    {
+      "query": "path:Locations/Sites",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Characters/NPCs/Unaffiliated",
+      "color": {
+        "a": 1,
+        "rgb": 7897330
+      }
+    },
+    {
+      "query": "path:Characters/NPCs/Allies",
+      "color": {
+        "a": 1,
+        "rgb": 7135390
+      }
+    },
+    {
+      "query": "path:Characters/NPCs/Pets",
+      "color": {
+        "a": 1,
+        "rgb": 15988534
+      }
     }
   ],
   "collapse-display": false,
@@ -29,9 +71,9 @@
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.496260683760684,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 106,
-  "scale": 1.6048697909004979,
-  "close": false
+  "repelStrength": 11.0477941176471,
+  "linkStrength": 0.875643382352941,
+  "linkDistance": 224,
+  "scale": 0.8854674932955604,
+  "close": true
 }

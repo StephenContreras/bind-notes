@@ -1,4 +1,4 @@
-Half-Elf <class>
+Half-Elf - <class>
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  
@@ -13,10 +13,10 @@ Relation | Name
 ------------ | ------------
 Dad | [[Eren Crestsunder]] 
 Mom (dead) | [[Eurydice Crestsunder]]
-Stepmom | NAME
+Stepmom | [[Marcia Crestsunder]]
 Brother | [[Leo Crestsunder]]
-Brother | Name
-Sister | NAME
+Half Brother | [[Finn Crestsunder]]
+Half Sister | [[Fae Crestsunder]]
 
 ###### Pets
 

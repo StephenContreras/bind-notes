@@ -1,4 +1,4 @@
-Firbolg - <class>
+Tiefling - Commoner
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  
@@ -11,10 +11,6 @@ STR | DEX | CON | INT | WIS | CHA
 	
 Relation | Name
 ------------ | ------------
-Dad | [[Cynder N'Rello]]
-Mom | [[Cyssor N'Rello]]
-Aunt | [[Caryn N'Rello]]
-Brother | [[Cydne N'Rello]]
 
 ###### Pets
 
@@ -23,4 +19,8 @@ Brother | [[Cydne N'Rello]]
 ---
 
 #### Background
-<Description>
+Farmer in [[Grasspass]]
+
+#### Notes
+The gang saved 1/4 of her farm from the [[Cultists]]
+Her far is a winery that grows two varieties of grape 

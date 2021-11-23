@@ -1,4 +1,4 @@
-Firbolg - <class>
+Forrest Gnome - Commoner
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  
@@ -11,10 +11,9 @@ STR | DEX | CON | INT | WIS | CHA
 	
 Relation | Name
 ------------ | ------------
-Dad | [[Cynder N'Rello]]
-Mom | [[Cyssor N'Rello]]
-Aunt | [[Caryn N'Rello]]
-Brother | [[Cydne N'Rello]]
+Mom | [[Shannon Waggletop]]
+Dad | [[Jimmithy Waggletop]]
+
 
 ###### Pets
 
@@ -23,4 +22,4 @@ Brother | [[Cydne N'Rello]]
 ---
 
 #### Background
-<Description>
+She is a charismatic chaotic mayor who has been looking over the city the past decade.

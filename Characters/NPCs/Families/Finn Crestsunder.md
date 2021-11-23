@@ -1,4 +1,4 @@
-Firbolg - <class>
+Human - <class>
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  
@@ -11,10 +11,11 @@ STR | DEX | CON | INT | WIS | CHA
 	
 Relation | Name
 ------------ | ------------
-Dad | [[Cynder N'Rello]]
-Mom | [[Cyssor N'Rello]]
-Aunt | [[Caryn N'Rello]]
-Brother | [[Cydne N'Rello]]
+Dad | [[Eren Crestsunder]] 
+Mom | [[Marcia Crestsunder]]
+Half Brother | [[Leo Crestsunder]]
+Half Brother | [[Cas Crestsunder]]
+Sister | [[Fae Crestsunder]]
 
 ###### Pets
 
@@ -23,4 +24,4 @@ Brother | [[Cydne N'Rello]]
 ---
 
 #### Background
-<Description>
+Age: 3

@@ -1,5 +1,5 @@
 [Character sheet](https://www.dndbeyond.com/profile/BooksAreOxygen/characters/52230547)
-Half-Elf Half Spirit of the Land Cleric
+Half-Elf Half Spirit of the Land - Cleric
 Player: Izzy
 
 ---

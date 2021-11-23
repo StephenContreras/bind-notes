@@ -1,4 +1,4 @@
-Firbolg <class>
+Firbolg - <class>
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  

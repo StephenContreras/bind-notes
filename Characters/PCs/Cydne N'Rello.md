@@ -1,6 +1,6 @@
 [Character sheet](https://www.dndbeyond.com/profile/JustATabaxi/characters/52374809)
 Player: Patrick
-Firbolg Druid 
+Firbolg - Druid 
 
 ---
 

@@ -1,4 +1,4 @@
-Elf Ranger - (Dead)
+Elf - Ranger - (Dead)
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  

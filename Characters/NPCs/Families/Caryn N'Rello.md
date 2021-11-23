@@ -1,4 +1,4 @@
-Firbolg - <class>
+Firbolg - Commoner
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  
@@ -11,10 +11,8 @@ STR | DEX | CON | INT | WIS | CHA
 	
 Relation | Name
 ------------ | ------------
-Dad | [[Cynder N'Rello]]
-Mom | [[Cyssor N'Rello]]
-Aunt | [[Caryn N'Rello]]
-Brother | [[Cydne N'Rello]]
+Nephew | [[Cydne N'Rello]]
+Niece | [[Cyster N'Rello]]
 
 ###### Pets
 

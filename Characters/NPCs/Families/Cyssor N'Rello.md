@@ -1,4 +1,4 @@
-Firbolg <class>
+Firbolg - <class>
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  
@@ -14,6 +14,12 @@ Relation | Name
 Husband | [[Cynder N'Rello]]
 Son | [[Cydne N'Rello]]
 Daughter | [[Cyster N'Rello]]
+
+###### Friends
+Relation | Name
+------------ | ------------
+Adventurer | [[Eren Crestsunder]]
+Adventurer | [[Eurydice Crestsunder]]
 
 ###### Pets
 
