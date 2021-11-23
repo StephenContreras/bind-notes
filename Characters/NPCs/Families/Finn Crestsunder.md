@@ -25,3 +25,12 @@ Sister | [[Fae Crestsunder]]
 
 #### Background
 Age: 3
+	
+###### History
+- born 3 years ago to Eren and Marcia
+- Leo and Cas dote on them as their younger siblings
+	- were often put in charge of babysitting duty while Eren and Marcia ran the tavern
+
+###### Personality
+- cute but mischievous
+	- will often get into Leo's things

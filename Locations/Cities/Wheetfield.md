@@ -7,3 +7,4 @@ Sites:
 #### Notable people
 
 #### Notable places/items
+Closest city to where the gang found a [[Cultists]] hideout 

@@ -23,4 +23,4 @@ Parent | [[Elf]]
 
 #### Background
 Age: 300+ 
-<Description>
+Has a history with the [[Cultists]]

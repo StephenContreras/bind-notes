@@ -1,4 +1,4 @@
-<race> - <class>
+Rock Gnome - <class>
 
 STR | DEX | CON | INT | WIS | CHA
 ---- | ---- | ---- | ---- | ---- | ----  
@@ -11,10 +11,8 @@ STR | DEX | CON | INT | WIS | CHA
 	
 Relation | Name
 ------------ | ------------
-Dad | NAME 
-Mom | NAME
-Brother | NAME
-Sister | NAME
+Son | [[Ziggy FlintFinder]]
+Wife | [[Ziggy Mom]]
 
 ###### Pets
 
@@ -24,3 +22,5 @@ Sister | NAME
 
 #### Background
 <Description>
+	
+Work at the [[Sessid Smithery]]

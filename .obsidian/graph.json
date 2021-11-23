@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "path:(-templates)",
+  "search": "path:(-Templates)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Characters/PCs",
@@ -64,16 +64,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00304487179487,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 1.01469669117647,
+  "lineSizeMultiplier": 3.79661764705882,
   "collapse-forces": false,
-  "centerStrength": 0.496260683760684,
-  "repelStrength": 11.0477941176471,
-  "linkStrength": 0.875643382352941,
-  "linkDistance": 224,
-  "scale": 0.8854674932955604,
+  "centerStrength": 0.389922752808989,
+  "repelStrength": 11.3518258426966,
+  "linkStrength": 0.907391151685393,
+  "linkDistance": 257,
+  "scale": 0.7920407494526439,
   "close": true
 }
