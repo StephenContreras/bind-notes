@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:(-Templates)",
+  "search": "path:(-Templates) ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,56 +11,42 @@
       "query": "path:Characters/PCs",
       "color": {
         "a": 1,
-        "rgb": 9859327
+        "rgb": 12338429
       }
     },
     {
       "query": "path:Characters/NPCs/Families",
       "color": {
         "a": 1,
-        "rgb": 14701209
+        "rgb": 14392317
       }
     },
     {
-      "query": "path:Locations/Cities",
+      "query": "(path:Characters/NPCs/Allies OR tag:#friend) AND tag:(-",
       "color": {
         "a": 1,
-        "rgb": 8170523
-      }
-    },
-    {
-      "query": "path:Locations/Regions",
-      "color": {
-        "a": 1,
-        "rgb": 16183095
-      }
-    },
-    {
-      "query": "path:Locations/Sites",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 5431378
       }
     },
     {
       "query": "path:Characters/NPCs/Unaffiliated",
       "color": {
         "a": 1,
-        "rgb": 7897330
+        "rgb": 11071656
       }
     },
     {
-      "query": "path:Characters/NPCs/Allies",
+      "query": "path:Characters/NPCs/Enemies OR tag:enemy",
       "color": {
         "a": 1,
-        "rgb": 7135390
+        "rgb": 14701195
       }
     },
     {
-      "query": "path:Characters/NPCs/Animals",
+      "query": "path:Locations",
       "color": {
         "a": 1,
-        "rgb": 15988534
+        "rgb": 14935174
       }
     }
   ],
@@ -69,11 +55,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.08720588235294,
   "lineSizeMultiplier": 3.79661764705882,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.468883547008547,
   "repelStrength": 9.29248595505618,
   "linkStrength": 1,
   "linkDistance": 252,
-  "scale": 1.2288901315382978,
+  "scale": 0.9221079114817355,
   "close": true
 }

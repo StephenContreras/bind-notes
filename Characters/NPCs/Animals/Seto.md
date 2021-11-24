@@ -12,3 +12,5 @@ MaxHP: 20
 
 #### Background
 Eren rescued [[Seto's parent]]
+
+#friend

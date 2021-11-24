@@ -1,3 +1,6 @@
 ---
 aliases: Cultists, cultist
 ---
+
+
+#enemy
