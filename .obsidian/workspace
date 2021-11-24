@@ -7,8 +7,11 @@
         "id": "4f248c1e80ae3a76",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Characters/NPCs/Families/Eurydice Crestsunder.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/NPCs/Families/Eurydice Crestsunder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "4f248c1e80ae3a76",
   "lastOpenFiles": [
-    "Locations/Cities/Wheetfield.md",
-    "Characters/NPCs/Enemies/Cult of Aristaeus.md",
-    "Characters/NPCs/Unaffiliated/Maredeth Aldred.md",
-    "Cultists.md",
+    "Characters/NPCs/Families/Eurydice Crestsunder.md",
+    "Characters/NPCs/Families/Cas Crestsunder.md",
+    "Characters/NPCs/Families/Cynder N'Rello.md",
     "Characters/PCs/Cydne N'Rello.md",
     "Characters/PCs/Aristaeus.md",
-    "Characters/NPCs/Families/Caryn N'Rello.md",
-    "Characters/NPCs/Families/Cyster N'Rello.md",
-    "Characters/NPCs/Families/Cyssor N'Rello.md",
-    "Characters/NPCs/Families/Cynder N'Rello.md"
+    "Characters/PCs/Ziggy FlintFinder.md",
+    "Characters/NPCs/Families/Ziggy Dad.md",
+    "Characters/NPCs/Families/Ziggy Mom.md",
+    "Characters/NPCs/Families/Spirit of the land.md",
+    "Characters/NPCs/Families/Marcia Crestsunder.md"
   ]
 }

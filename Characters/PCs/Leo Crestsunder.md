@@ -27,7 +27,7 @@ Stepsister | [[Fae Crestsunder]]
 ---
 
 #### Background
-Age: 17
+Age: 17 1/2
 ###### Physical Description
 - ~5'8
 	- elvish blood makes him mature a little slower than humans; still has some growing to do
@@ -46,15 +46,21 @@ Age: 17
 - does well in school
 	- not top honors by any means but works hard
 	- good grades are more of a result of hard work rather than intelligence, unlike his brother
+- worships standard Elven gods plus the Moon Triplets
+	- Mayari (pg 26, Sina Una)
+	- Tala (pg 28)
+	- Hanan (pg 29)
 
 ###### Personality
 - anxious bb
-	- confidence issues
+	- confidence issues; depends on Eren and Cas a little too much
+	- might stem from Eurydice's death but he's always been kind of fearful
 - stutters and rambles when he speaks
-- loves sweets - especially Ahab's
-- his angry button - when people hurt people/things he cares about
 - very sweet, especially to animals and children
-- a little reckless and stubborn - gets it from both of his parents
-- takes good notes in his journal
+- loves sweets - especially Ahab's
+	- helps bake desserts for the tavern
+- his angry button - when people hurt people/things he cares about (his family, friends, Seto, etc)
+- a little reckless and stubborn - very much runs in the family
+- self conscious about shorter height relative to Eren and Cas
 
 #chrestsunder
