@@ -2,5 +2,6 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "showLineNumber": true
 }

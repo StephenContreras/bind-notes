@@ -47,6 +47,7 @@ Age: 21
 	- frat bro
 	- gained a little bit of a beer belly since starting college but still fairly physically fit from hunting
 	
+
 ###### Personality
 - total frat bro but the nice, understands consent kind
 - bit of a playboy like his dad at his age, much to Eren's chagrin
@@ -58,3 +59,5 @@ Age: 21
 - very intelligent but also kind of dumb
 	- never really had to study for anything; has poor study habits
 	- high INT, low WIS
+
+#chrestsunder 

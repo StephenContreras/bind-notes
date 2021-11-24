@@ -13,3 +13,5 @@ MaxHP: 20
 #### Background
 - Eren rescued [[Seto's parent]]
 - blue, smaller form of a Waterfall Ibingan (pg 271 of Sina Una)
+
+#friend

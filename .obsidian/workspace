@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4f248c1e80ae3a76",
+        "id": "50ecd988b6b710ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/NPCs/Families/Eurydice Crestsunder.md",
+            "file": "Characters/NPCs/Animals/Seto.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Families/Eurydice Crestsunder.md",
+                "file": "Characters/NPCs/Animals/Seto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4f248c1e80ae3a76",
+  "active": "50ecd988b6b710ee",
   "lastOpenFiles": [
-    "Characters/NPCs/Families/Eurydice Crestsunder.md",
+    "Characters/NPCs/Animals/Seto.md",
     "Characters/NPCs/Families/Cas Crestsunder.md",
-    "Characters/NPCs/Families/Cynder N'Rello.md",
-    "Characters/PCs/Cydne N'Rello.md",
-    "Characters/PCs/Aristaeus.md",
-    "Characters/PCs/Ziggy FlintFinder.md",
-    "Characters/NPCs/Families/Ziggy Dad.md",
-    "Characters/NPCs/Families/Ziggy Mom.md",
-    "Characters/NPCs/Families/Spirit of the land.md",
-    "Characters/NPCs/Families/Marcia Crestsunder.md"
+    "Characters/NPCs/Unaffiliated/Tobie Waggletop.md",
+    "Locations/Cities/Grasspass.md",
+    "Locations/Regions/Falsen.md",
+    "Locations/Cities/Sessid.md",
+    "Locations/Sites/The Bronze Dragon.md",
+    "Characters/PCs/Leo Crestsunder.md",
+    "Characters/NPCs/Animals/Seto's parent.md",
+    "Characters/NPCs/Families/Eren Crestsunder.md"
   ]
 }

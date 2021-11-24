@@ -11,3 +11,6 @@ MaxHP:
 ---
 
 #### Background
+
+
+#friend 
