@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:(-Templates) ",
+  "search": "path:(-Templates)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -55,11 +55,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.08720588235294,
   "lineSizeMultiplier": 3.79661764705882,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.468883547008547,
-  "repelStrength": 9.29248595505618,
+  "repelStrength": 8.30582865168539,
   "linkStrength": 1,
-  "linkDistance": 252,
-  "scale": 0.9221079114817355,
+  "linkDistance": 30,
+  "scale": 1.1800595686901114,
   "close": true
 }

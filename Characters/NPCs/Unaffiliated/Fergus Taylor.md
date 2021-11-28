@@ -15,7 +15,7 @@ Relation | Name
 ###### Friendships
 Relation | Name 
 --- | ---
-member in college | [[Apple Delta Pie]] 
+member in college | [[Delta Apple Pi]] 
 
 ###### Pets
 
@@ -24,4 +24,4 @@ member in college | [[Apple Delta Pie]]
 ---
 
 #### Background
-<Description>
+Works at the 

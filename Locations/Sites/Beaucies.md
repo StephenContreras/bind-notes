@@ -1,4 +1,4 @@
-Type: <City, Building, Island, etc> 
+Type: Inn 
 {Parent}: {link}
 {children}
 

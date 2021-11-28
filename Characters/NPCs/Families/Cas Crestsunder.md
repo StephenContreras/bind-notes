@@ -43,7 +43,7 @@ Age: 21
 	- also good with a bow, like Leo
 	- won't admit that Leo is the better hunter
 - goes to college at the local university
-	- member of the Elvish Honor Society and Beta Apple Pie
+	- member of the Elvish Honor Society and [[Delta Apple Pi]]
 	- frat bro
 	- gained a little bit of a beer belly since starting college but still fairly physically fit from hunting
 	

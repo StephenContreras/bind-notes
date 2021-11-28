@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50ecd988b6b710ee",
+        "id": "2953e36f29fa869e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/NPCs/Animals/Seto.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alias",
+                "query": "bea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Animals/Seto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "50ecd988b6b710ee",
+  "active": "2953e36f29fa869e",
   "lastOpenFiles": [
-    "Characters/NPCs/Animals/Seto.md",
-    "Characters/NPCs/Families/Cas Crestsunder.md",
-    "Characters/NPCs/Unaffiliated/Tobie Waggletop.md",
-    "Locations/Cities/Grasspass.md",
-    "Locations/Regions/Falsen.md",
-    "Locations/Cities/Sessid.md",
-    "Locations/Sites/The Bronze Dragon.md",
-    "Characters/PCs/Leo Crestsunder.md",
-    "Characters/NPCs/Animals/Seto's parent.md",
-    "Characters/NPCs/Families/Eren Crestsunder.md"
+    "Characters/PCs/Cydne N'Rello.md",
+    "Locations/Sites/Beaucies.md",
+    "Locations/Sites/Ahabs 13.md",
+    "Locations/Sites/Ahabs 7.md",
+    "Beaucies/Ahabs 13.md",
+    "Locations/Sites/Ahabs.md",
+    "Characters/NPCs/Unaffiliated/Fergus Taylor.md",
+    "Gus Gill.md",
+    "Locations/Territories/The Breadline.md",
+    "Locations/Sites/Grasspass Municipal Building.md"
   ]
 }
